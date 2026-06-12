@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # David Pizarro, PhD
 
 Bioinformatician, fungal genomicist and lichenologist.

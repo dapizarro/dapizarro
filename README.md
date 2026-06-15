@@ -14,8 +14,8 @@ Bioinformatics, fungal genomic and lichenology.
 
 ## Current projects
 
-🧬 LichenBioDECO
-- Microbiome–chemosyndrome interactions in Evernia prunastri
+🧬 Fungal BGC Evolution
+- Phylogenomic framework for analysing biosynthetic gene cluster evolution across fungal lineages. 
 
 🧬 FungalMitoGenomeEvolution
 - Evolution of fungal mitochondrial genomes

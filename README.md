@@ -1,6 +1,6 @@
 # David Pizarro, PhD
 
-Bioinformatician, fungal genomicist and lichenologist.
+Bioinformatics, fungal genomic and lichenology.
 
 ## Research interests
 
